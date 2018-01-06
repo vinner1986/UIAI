@@ -1,5 +1,6 @@
 ***Install Steps***
 https://www.cnblogs.com/yinrw/p/5837828.html
+https://www.cnblogs.com/puresoul/p/3854963.html
 
 ***Software download***
 https://www.python.org/downloads/
