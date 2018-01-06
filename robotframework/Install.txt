@@ -1,1 +1,7 @@
+***Install Steps***
 https://www.cnblogs.com/yinrw/p/5837828.html
+
+***Software download***
+https://www.python.org/downloads/
+
+
