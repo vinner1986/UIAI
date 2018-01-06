@@ -4,5 +4,5 @@ https://www.cnblogs.com/puresoul/p/3854963.html
 
 ***Software download***
 https://www.python.org/downloads/
-
+http://wxpython.org/download.php#stable
 
